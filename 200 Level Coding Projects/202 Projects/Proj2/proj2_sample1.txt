@@ -1,0 +1,325 @@
+*****************************************************************
+ SSSS  U   U  BBBB   N    N   AAA   U   U  TTTTT  II  CCCC   AAA 
+ S     U   U  B   B  NN   N  A   A  U   U    T    II  C     A   A
+ S     U   U  B   B  N N  N  A   A  U   U    T    II  C     A   A
+ SSSS  U   U  BBBB   N  N N  AAAAA  U   U    T    II  C     AAAAA
+    S  U   U  B   B  N  N N  A   A  U   U    T    II  C     A   A
+    S  U   U  B   B  N   NN  A   A  U   U    T    II  C     A   A
+ SSSS  UUUUU  BBBB   N    N  A   A  UUUUU    T    II  CCCC  A   A
+*****************************************************************
+50 materials loaded.
+What is the name of your Diver?
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+1. Cave Sulfur 0
+2. Copper Ore 0
+3. Diamond 0
+4. Gold 0
+5. Lead 0
+6. Lithium 0
+7. Quartz 0
+8. Ruby 0
+9. Silver Ore 0
+10. Stalker Teeth 0
+11. Titanium 0
+12. Table Coral Sample 0
+13. Acid Mushroom 0
+14. Gel Sack 0
+15. Creepvine Seed Cluster 0
+16. Creepvine Sample 0
+17. Blood Oil 0
+18. Aerogel 0
+19. Benzene 0
+20. Synthetic Fibers 0
+21. Advanced Wiring Kit 0
+22. Battery 0
+23. Computer Chip 0
+24. Copper Wire 0
+25. Wiring Kit 0
+26. Enameled Glass 0
+27. Fiber Mesh 0
+28. Glass 0
+29. Lubricant 0
+30. Plasteel Ingot 0
+31. Silicone Rubber 0
+32. Titanium Ingot 0
+33. Light Stick 0
+34. Pathfinder Tool 0
+35. Repair Tool 0
+36. Compass 0
+37. Fins 0
+38. Floating Air Pump 0
+39. High Capacity O2 Tank 0
+40. Lightweight High Capacity Tank 0
+41. Radiation Suit 0
+42. Rebreather 0
+43. Reinforced Dive Suit 0
+44. Standard O2 Tank 0
+45. Stillsuit 0
+46. Swim Charge Fins 0
+47. Ultra Glide Fins 0
+48. Ultra High Capacity Tank 0
+49. Beacon 0
+50. Seaglide 0
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Table Coral Sample Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Quartz Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Creepvine Sample Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Lead Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Gold Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Lead Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Creepvine Seed Cluster Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Creepvine Sample Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Silver Ore Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Blood Oil Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Titanium Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Titanium Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Lead Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Copper Ore Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Creepvine Sample Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Diamond Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Quartz Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Lithium Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Cave Sulfur Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Stalker Teeth Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Table Coral Sample Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Creepvine Sample Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Gel Sack Found!
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+1. Cave Sulfur 1
+2. Copper Ore 1
+3. Diamond 1
+4. Gold 1
+5. Lead 3
+6. Lithium 1
+7. Quartz 2
+8. Ruby 0
+9. Silver Ore 1
+10. Stalker Teeth 1
+11. Titanium 2
+12. Table Coral Sample 2
+13. Acid Mushroom 0
+14. Gel Sack 1
+15. Creepvine Seed Cluster 1
+16. Creepvine Sample 4
+17. Blood Oil 1
+18. Aerogel 0
+19. Benzene 0
+20. Synthetic Fibers 0
+21. Advanced Wiring Kit 0
+22. Battery 0
+23. Computer Chip 0
+24. Copper Wire 0
+25. Wiring Kit 0
+26. Enameled Glass 0
+27. Fiber Mesh 0
+28. Glass 0
+29. Lubricant 0
+30. Plasteel Ingot 0
+31. Silicone Rubber 0
+32. Titanium Ingot 0
+33. Light Stick 0
+34. Pathfinder Tool 0
+35. Repair Tool 0
+36. Compass 0
+37. Fins 0
+38. Floating Air Pump 0
+39. High Capacity O2 Tank 0
+40. Lightweight High Capacity Tank 0
+41. Radiation Suit 0
+42. Rebreather 0
+43. Reinforced Dive Suit 0
+44. Standard O2 Tank 0
+45. Stillsuit 0
+46. Swim Charge Fins 0
+47. Ultra Glide Fins 0
+48. Ultra High Capacity Tank 0
+49. Beacon 0
+50. Seaglide 0
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Which materials would you like to merge?
+To list known materials enter -1
+Which materials would you like to merge?
+To list known materials enter -1
+Creepvine Sample combined with Creepvine Sample to make Fiber Mesh!
+Your diver has built Fiber Mesh.
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Which materials would you like to merge?
+To list known materials enter -1
+Which materials would you like to merge?
+To list known materials enter -1
+Titanium combined with Fiber Mesh to make Floating Air Pump!
+Your diver has built Floating Air Pump.
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+***The Diver***
+The Great Diver JD
+Maximum Depth: 1000
+Current Depth: 50
+What would you like to do?
+1. Display your Diver's Materials
+2. Search for Raw Materials
+3. Attempt to Merge Materials
+4. See Score
+5. Quit
+Thanks for playing Subnautica

@@ -1,0 +1,1051 @@
+Welcome to the Game
+Here is a list of Pokemon you can choose from: 
+------------------------------
+Index: 1   Name: Bulbasaur    Type: Grass     Health: 9  
+Index: 2   Name: Ivysaur      Type: Grass     Health: 9  
+Index: 3   Name: Venusaur     Type: Grass     Health: 9  
+Index: 4   Name: Charmander   Type: Fire      Health: 9  
+Index: 5   Name: Charmeleon   Type: Fire      Health: 9  
+Index: 6   Name: Charizard    Type: Fire      Health: 9  
+Index: 7   Name: Squirtle     Type: Water     Health: 9  
+Index: 8   Name: Wartortle    Type: Water     Health: 9  
+Index: 9   Name: Blastoise    Type: Water     Health: 9  
+Index: 10  Name: Caterpie     Type: Bug       Health: 9  
+Index: 11  Name: Metapod      Type: Bug       Health: 9  
+Index: 12  Name: Butterfree   Type: Bug       Health: 9  
+Index: 13  Name: Weedle       Type: Bug       Health: 9  
+Index: 14  Name: Kakuna       Type: Bug       Health: 9  
+Index: 15  Name: Beedrill     Type: Bug       Health: 9  
+Index: 16  Name: Pidgey       Type: Normal    Health: 9  
+Index: 17  Name: Pidgeotto    Type: Normal    Health: 9  
+Index: 18  Name: Pidgeot      Type: Normal    Health: 9  
+Index: 19  Name: Rattata      Type: Normal    Health: 9  
+Index: 20  Name: Raticate     Type: Normal    Health: 9  
+Index: 21  Name: Spearow      Type: Normal    Health: 9  
+Index: 22  Name: Fearow       Type: Normal    Health: 9  
+Index: 23  Name: Ekans        Type: Poison    Health: 9  
+Index: 24  Name: Arbok        Type: Poison    Health: 9  
+Index: 25  Name: Pikachu      Type: Electric  Health: 9  
+Index: 26  Name: Raichu       Type: Electric  Health: 9  
+Index: 27  Name: Sandshrew    Type: Ground    Health: 9  
+Index: 28  Name: Sandslash    Type: Ground    Health: 9  
+Index: 29  Name: Nidoran(m)   Type: Poison    Health: 9  
+Index: 30  Name: Nidorina     Type: Poison    Health: 9  
+Index: 31  Name: Nidoqueen    Type: Poison    Health: 9  
+Index: 32  Name: Nidoran(f)   Type: Poison    Health: 9  
+Index: 33  Name: Nidorino     Type: Poison    Health: 9  
+Index: 34  Name: Nidoking     Type: Poison    Health: 9  
+Index: 35  Name: Clefairy     Type: Fairy     Health: 9  
+Index: 36  Name: Clefable     Type: Fairy     Health: 9  
+Index: 37  Name: Vulpix       Type: Fire      Health: 9  
+Index: 38  Name: Ninetales    Type: Fire      Health: 9  
+Index: 39  Name: Jigglypuff   Type: Normal    Health: 9  
+Index: 40  Name: Wigglytuff   Type: Normal    Health: 9  
+Index: 41  Name: Zubat        Type: Poison    Health: 9  
+Index: 42  Name: Golbat       Type: Poison    Health: 9  
+Index: 43  Name: Oddish       Type: Grass     Health: 9  
+Index: 44  Name: Gloom        Type: Grass     Health: 9  
+Index: 45  Name: Vileplume    Type: Grass     Health: 9  
+Index: 46  Name: Paras        Type: Bug       Health: 9  
+Index: 47  Name: Parasect     Type: Bug       Health: 9  
+Index: 48  Name: Venonat      Type: Bug       Health: 9  
+Index: 49  Name: Venomoth     Type: Bug       Health: 9  
+Index: 50  Name: Diglett      Type: Ground    Health: 9  
+Index: 51  Name: Dugtrio      Type: Ground    Health: 9  
+Index: 52  Name: Meowth       Type: Normal    Health: 9  
+Index: 53  Name: Persian      Type: Normal    Health: 9  
+Index: 54  Name: Psyduck      Type: Water     Health: 9  
+Index: 55  Name: Golduck      Type: Water     Health: 9  
+Index: 56  Name: Mankey       Type: Fighting  Health: 9  
+Index: 57  Name: Primeape     Type: Fighting  Health: 9  
+Index: 58  Name: Growlithe    Type: Fire      Health: 9  
+Index: 59  Name: Arcanine     Type: Fire      Health: 9  
+Index: 60  Name: Poliwag      Type: Water     Health: 9  
+Index: 61  Name: Poliwhirl    Type: Water     Health: 9  
+Index: 62  Name: Poliwrath    Type: Water     Health: 9  
+Index: 63  Name: Abra         Type: Psychic   Health: 9  
+Index: 64  Name: Kadabra      Type: Psychic   Health: 9  
+Index: 65  Name: Alakazam     Type: Psychic   Health: 9  
+Index: 66  Name: Machop       Type: Fighting  Health: 9  
+Index: 67  Name: Machoke      Type: Fighting  Health: 9  
+Index: 68  Name: Machamp      Type: Fighting  Health: 9  
+Index: 69  Name: Bellsprout   Type: Grass     Health: 9  
+Index: 70  Name: Weepinbell   Type: Grass     Health: 9  
+Index: 71  Name: Victreebel   Type: Grass     Health: 9  
+Index: 72  Name: Tentacool    Type: Water     Health: 9  
+Index: 73  Name: Tentacruel   Type: Water     Health: 9  
+Index: 74  Name: Geodude      Type: Rock      Health: 9  
+Index: 75  Name: Graveler     Type: Rock      Health: 9  
+Index: 76  Name: Golem        Type: Rock      Health: 9  
+Index: 77  Name: Ponyta       Type: Fire      Health: 9  
+Index: 78  Name: Rapidash     Type: Fire      Health: 9  
+Index: 79  Name: Slowpoke     Type: Water     Health: 9  
+Index: 80  Name: Slowbro      Type: Water     Health: 9  
+Index: 81  Name: Magnemite    Type: Electric  Health: 9  
+Index: 82  Name: Magneton     Type: Electric  Health: 9  
+Index: 83  Name: Farfetch'd   Type: Normal    Health: 9  
+Index: 84  Name: Doduo        Type: Normal    Health: 9  
+Index: 85  Name: Dodrio       Type: Normal    Health: 9  
+Index: 86  Name: Seel         Type: Water     Health: 9  
+Index: 87  Name: Dewgong      Type: Water     Health: 9  
+Index: 88  Name: Grimer       Type: Poison    Health: 9  
+Index: 89  Name: Muk          Type: Poison    Health: 9  
+Index: 90  Name: Shellder     Type: Water     Health: 9  
+Index: 91  Name: Cloyster     Type: Water     Health: 9  
+Index: 92  Name: Gastly       Type: Ghost     Health: 9  
+Index: 93  Name: Haunter      Type: Ghost     Health: 9  
+Index: 94  Name: Gengar       Type: Ghost     Health: 9  
+Index: 95  Name: Onix         Type: Rock      Health: 9  
+Index: 96  Name: Drowzee      Type: Psychic   Health: 9  
+Index: 97  Name: Hypno        Type: Psychic   Health: 9  
+Index: 98  Name: Krabby       Type: Water     Health: 9  
+Index: 99  Name: Kingler      Type: Water     Health: 9  
+Index: 100 Name: Voltorb      Type: Electric  Health: 9  
+Index: 101 Name: Electrode    Type: Electric  Health: 9  
+Index: 102 Name: Exeggcute    Type: Grass     Health: 9  
+Index: 103 Name: Exeggutor    Type: Grass     Health: 9  
+Index: 104 Name: Cubone       Type: Ground    Health: 9  
+Index: 105 Name: Marowak      Type: Ground    Health: 9  
+Index: 106 Name: Hitmonlee    Type: Fighting  Health: 9  
+Index: 107 Name: Hitmonchan   Type: Fighting  Health: 9  
+Index: 108 Name: Lickitung    Type: Normal    Health: 9  
+Index: 109 Name: Koffing      Type: Poison    Health: 9  
+Index: 110 Name: Weezing      Type: Poison    Health: 9  
+Index: 111 Name: Rhyhorn      Type: Ground    Health: 9  
+Index: 112 Name: Rhydon       Type: Ground    Health: 9  
+Index: 113 Name: Chansey      Type: Normal    Health: 9  
+Index: 114 Name: Tangela      Type: Grass     Health: 9  
+Index: 115 Name: Kangaskhan   Type: Normal    Health: 9  
+Index: 116 Name: Horsea       Type: Water     Health: 9  
+Index: 117 Name: Seadra       Type: Water     Health: 9  
+Index: 118 Name: Goldeen      Type: Water     Health: 9  
+Index: 119 Name: Seaking      Type: Water     Health: 9  
+Index: 120 Name: Staryu       Type: Water     Health: 9  
+Index: 121 Name: Starmie      Type: Water     Health: 9  
+Index: 122 Name: Mr. Mime     Type: Psychic   Health: 9  
+Index: 123 Name: Scyther      Type: Bug       Health: 9  
+Index: 124 Name: Jynx         Type: Ice       Health: 9  
+Index: 125 Name: Electabuzz   Type: Electric  Health: 9  
+Index: 126 Name: Magmar       Type: Fire      Health: 9  
+Index: 127 Name: Pinsir       Type: Bug       Health: 9  
+Index: 128 Name: Tauros       Type: Normal    Health: 9  
+Index: 129 Name: Magikarp     Type: Water     Health: 9  
+Index: 130 Name: Gyarados     Type: Water     Health: 9  
+Index: 131 Name: Lapras       Type: Water     Health: 9  
+Index: 132 Name: Ditto        Type: Normal    Health: 9  
+Index: 133 Name: Eevee        Type: Normal    Health: 9  
+Index: 134 Name: Vaporeon     Type: Water     Health: 9  
+Index: 135 Name: Jolteon      Type: Electric  Health: 9  
+Index: 136 Name: Flareon      Type: Fire      Health: 9  
+Index: 137 Name: Porygon      Type: Normal    Health: 9  
+Index: 138 Name: Omanyte      Type: Rock      Health: 9  
+Index: 139 Name: Omastar      Type: Rock      Health: 9  
+Index: 140 Name: Kabuto       Type: Rock      Health: 9  
+Index: 141 Name: Kabutops     Type: Rock      Health: 9  
+Index: 142 Name: Aerodactyl   Type: Rock      Health: 9  
+Index: 143 Name: Snorlax      Type: Normal    Health: 9  
+Index: 144 Name: Articuno     Type: Ice       Health: 9  
+Index: 145 Name: Zapdos       Type: Electric  Health: 9  
+Index: 146 Name: Moltres      Type: Fire      Health: 9  
+Index: 147 Name: Dratini      Type: Dragon    Health: 9  
+Index: 148 Name: Dragonair    Type: Dragon    Health: 9  
+Index: 149 Name: Dragonite    Type: Dragon    Health: 9  
+Index: 150 Name: Mewtwo       Type: Psychic   Health: 9  
+Index: 151 Name: Mew          Type: Psychic   Health: 9  
+------------------------------
+Pick a pokemon by enter the index (5 left):
+1
+Here is a list of Pokemons you can choose from: 
+------------------------------
+Index: 2   Name: Ivysaur      Type: Grass     Health: 9  
+Index: 3   Name: Venusaur     Type: Grass     Health: 9  
+Index: 4   Name: Charmander   Type: Fire      Health: 9  
+Index: 5   Name: Charmeleon   Type: Fire      Health: 9  
+Index: 6   Name: Charizard    Type: Fire      Health: 9  
+Index: 7   Name: Squirtle     Type: Water     Health: 9  
+Index: 8   Name: Wartortle    Type: Water     Health: 9  
+Index: 9   Name: Blastoise    Type: Water     Health: 9  
+Index: 10  Name: Caterpie     Type: Bug       Health: 9  
+Index: 11  Name: Metapod      Type: Bug       Health: 9  
+Index: 12  Name: Butterfree   Type: Bug       Health: 9  
+Index: 13  Name: Weedle       Type: Bug       Health: 9  
+Index: 14  Name: Kakuna       Type: Bug       Health: 9  
+Index: 15  Name: Beedrill     Type: Bug       Health: 9  
+Index: 16  Name: Pidgey       Type: Normal    Health: 9  
+Index: 17  Name: Pidgeotto    Type: Normal    Health: 9  
+Index: 18  Name: Pidgeot      Type: Normal    Health: 9  
+Index: 19  Name: Rattata      Type: Normal    Health: 9  
+Index: 20  Name: Raticate     Type: Normal    Health: 9  
+Index: 21  Name: Spearow      Type: Normal    Health: 9  
+Index: 22  Name: Fearow       Type: Normal    Health: 9  
+Index: 23  Name: Ekans        Type: Poison    Health: 9  
+Index: 24  Name: Arbok        Type: Poison    Health: 9  
+Index: 25  Name: Pikachu      Type: Electric  Health: 9  
+Index: 26  Name: Raichu       Type: Electric  Health: 9  
+Index: 27  Name: Sandshrew    Type: Ground    Health: 9  
+Index: 28  Name: Sandslash    Type: Ground    Health: 9  
+Index: 29  Name: Nidoran(m)   Type: Poison    Health: 9  
+Index: 30  Name: Nidorina     Type: Poison    Health: 9  
+Index: 31  Name: Nidoqueen    Type: Poison    Health: 9  
+Index: 32  Name: Nidoran(f)   Type: Poison    Health: 9  
+Index: 33  Name: Nidorino     Type: Poison    Health: 9  
+Index: 34  Name: Nidoking     Type: Poison    Health: 9  
+Index: 35  Name: Clefairy     Type: Fairy     Health: 9  
+Index: 36  Name: Clefable     Type: Fairy     Health: 9  
+Index: 37  Name: Vulpix       Type: Fire      Health: 9  
+Index: 38  Name: Ninetales    Type: Fire      Health: 9  
+Index: 39  Name: Jigglypuff   Type: Normal    Health: 9  
+Index: 40  Name: Wigglytuff   Type: Normal    Health: 9  
+Index: 41  Name: Zubat        Type: Poison    Health: 9  
+Index: 42  Name: Golbat       Type: Poison    Health: 9  
+Index: 43  Name: Oddish       Type: Grass     Health: 9  
+Index: 44  Name: Gloom        Type: Grass     Health: 9  
+Index: 45  Name: Vileplume    Type: Grass     Health: 9  
+Index: 46  Name: Paras        Type: Bug       Health: 9  
+Index: 47  Name: Parasect     Type: Bug       Health: 9  
+Index: 48  Name: Venonat      Type: Bug       Health: 9  
+Index: 49  Name: Venomoth     Type: Bug       Health: 9  
+Index: 50  Name: Diglett      Type: Ground    Health: 9  
+Index: 51  Name: Dugtrio      Type: Ground    Health: 9  
+Index: 52  Name: Meowth       Type: Normal    Health: 9  
+Index: 53  Name: Persian      Type: Normal    Health: 9  
+Index: 54  Name: Psyduck      Type: Water     Health: 9  
+Index: 55  Name: Golduck      Type: Water     Health: 9  
+Index: 56  Name: Mankey       Type: Fighting  Health: 9  
+Index: 57  Name: Primeape     Type: Fighting  Health: 9  
+Index: 58  Name: Growlithe    Type: Fire      Health: 9  
+Index: 59  Name: Arcanine     Type: Fire      Health: 9  
+Index: 60  Name: Poliwag      Type: Water     Health: 9  
+Index: 61  Name: Poliwhirl    Type: Water     Health: 9  
+Index: 62  Name: Poliwrath    Type: Water     Health: 9  
+Index: 63  Name: Abra         Type: Psychic   Health: 9  
+Index: 64  Name: Kadabra      Type: Psychic   Health: 9  
+Index: 65  Name: Alakazam     Type: Psychic   Health: 9  
+Index: 66  Name: Machop       Type: Fighting  Health: 9  
+Index: 67  Name: Machoke      Type: Fighting  Health: 9  
+Index: 68  Name: Machamp      Type: Fighting  Health: 9  
+Index: 69  Name: Bellsprout   Type: Grass     Health: 9  
+Index: 70  Name: Weepinbell   Type: Grass     Health: 9  
+Index: 71  Name: Victreebel   Type: Grass     Health: 9  
+Index: 72  Name: Tentacool    Type: Water     Health: 9  
+Index: 73  Name: Tentacruel   Type: Water     Health: 9  
+Index: 74  Name: Geodude      Type: Rock      Health: 9  
+Index: 75  Name: Graveler     Type: Rock      Health: 9  
+Index: 76  Name: Golem        Type: Rock      Health: 9  
+Index: 77  Name: Ponyta       Type: Fire      Health: 9  
+Index: 78  Name: Rapidash     Type: Fire      Health: 9  
+Index: 79  Name: Slowpoke     Type: Water     Health: 9  
+Index: 80  Name: Slowbro      Type: Water     Health: 9  
+Index: 81  Name: Magnemite    Type: Electric  Health: 9  
+Index: 82  Name: Magneton     Type: Electric  Health: 9  
+Index: 83  Name: Farfetch'd   Type: Normal    Health: 9  
+Index: 84  Name: Doduo        Type: Normal    Health: 9  
+Index: 85  Name: Dodrio       Type: Normal    Health: 9  
+Index: 86  Name: Seel         Type: Water     Health: 9  
+Index: 87  Name: Dewgong      Type: Water     Health: 9  
+Index: 88  Name: Grimer       Type: Poison    Health: 9  
+Index: 89  Name: Muk          Type: Poison    Health: 9  
+Index: 90  Name: Shellder     Type: Water     Health: 9  
+Index: 91  Name: Cloyster     Type: Water     Health: 9  
+Index: 92  Name: Gastly       Type: Ghost     Health: 9  
+Index: 93  Name: Haunter      Type: Ghost     Health: 9  
+Index: 94  Name: Gengar       Type: Ghost     Health: 9  
+Index: 95  Name: Onix         Type: Rock      Health: 9  
+Index: 96  Name: Drowzee      Type: Psychic   Health: 9  
+Index: 97  Name: Hypno        Type: Psychic   Health: 9  
+Index: 98  Name: Krabby       Type: Water     Health: 9  
+Index: 99  Name: Kingler      Type: Water     Health: 9  
+Index: 100 Name: Voltorb      Type: Electric  Health: 9  
+Index: 101 Name: Electrode    Type: Electric  Health: 9  
+Index: 102 Name: Exeggcute    Type: Grass     Health: 9  
+Index: 103 Name: Exeggutor    Type: Grass     Health: 9  
+Index: 104 Name: Cubone       Type: Ground    Health: 9  
+Index: 105 Name: Marowak      Type: Ground    Health: 9  
+Index: 106 Name: Hitmonlee    Type: Fighting  Health: 9  
+Index: 107 Name: Hitmonchan   Type: Fighting  Health: 9  
+Index: 108 Name: Lickitung    Type: Normal    Health: 9  
+Index: 109 Name: Koffing      Type: Poison    Health: 9  
+Index: 110 Name: Weezing      Type: Poison    Health: 9  
+Index: 111 Name: Rhyhorn      Type: Ground    Health: 9  
+Index: 112 Name: Rhydon       Type: Ground    Health: 9  
+Index: 113 Name: Chansey      Type: Normal    Health: 9  
+Index: 114 Name: Tangela      Type: Grass     Health: 9  
+Index: 115 Name: Kangaskhan   Type: Normal    Health: 9  
+Index: 116 Name: Horsea       Type: Water     Health: 9  
+Index: 117 Name: Seadra       Type: Water     Health: 9  
+Index: 118 Name: Goldeen      Type: Water     Health: 9  
+Index: 119 Name: Seaking      Type: Water     Health: 9  
+Index: 120 Name: Staryu       Type: Water     Health: 9  
+Index: 121 Name: Starmie      Type: Water     Health: 9  
+Index: 122 Name: Mr. Mime     Type: Psychic   Health: 9  
+Index: 123 Name: Scyther      Type: Bug       Health: 9  
+Index: 124 Name: Jynx         Type: Ice       Health: 9  
+Index: 125 Name: Electabuzz   Type: Electric  Health: 9  
+Index: 126 Name: Magmar       Type: Fire      Health: 9  
+Index: 127 Name: Pinsir       Type: Bug       Health: 9  
+Index: 128 Name: Tauros       Type: Normal    Health: 9  
+Index: 129 Name: Magikarp     Type: Water     Health: 9  
+Index: 130 Name: Gyarados     Type: Water     Health: 9  
+Index: 131 Name: Lapras       Type: Water     Health: 9  
+Index: 132 Name: Ditto        Type: Normal    Health: 9  
+Index: 133 Name: Eevee        Type: Normal    Health: 9  
+Index: 134 Name: Vaporeon     Type: Water     Health: 9  
+Index: 135 Name: Jolteon      Type: Electric  Health: 9  
+Index: 136 Name: Flareon      Type: Fire      Health: 9  
+Index: 137 Name: Porygon      Type: Normal    Health: 9  
+Index: 138 Name: Omanyte      Type: Rock      Health: 9  
+Index: 139 Name: Omastar      Type: Rock      Health: 9  
+Index: 140 Name: Kabuto       Type: Rock      Health: 9  
+Index: 141 Name: Kabutops     Type: Rock      Health: 9  
+Index: 142 Name: Aerodactyl   Type: Rock      Health: 9  
+Index: 143 Name: Snorlax      Type: Normal    Health: 9  
+Index: 144 Name: Articuno     Type: Ice       Health: 9  
+Index: 145 Name: Zapdos       Type: Electric  Health: 9  
+Index: 146 Name: Moltres      Type: Fire      Health: 9  
+Index: 147 Name: Dratini      Type: Dragon    Health: 9  
+Index: 148 Name: Dragonair    Type: Dragon    Health: 9  
+Index: 149 Name: Dragonite    Type: Dragon    Health: 9  
+Index: 150 Name: Mewtwo       Type: Psychic   Health: 9  
+Index: 151 Name: Mew          Type: Psychic   Health: 9  
+------------------------------
+Pick a pokemon by enter the index (4 left):
+2
+Here is a list of Pokemons you can choose from: 
+------------------------------
+Index: 3   Name: Venusaur     Type: Grass     Health: 9  
+Index: 4   Name: Charmander   Type: Fire      Health: 9  
+Index: 5   Name: Charmeleon   Type: Fire      Health: 9  
+Index: 6   Name: Charizard    Type: Fire      Health: 9  
+Index: 7   Name: Squirtle     Type: Water     Health: 9  
+Index: 8   Name: Wartortle    Type: Water     Health: 9  
+Index: 9   Name: Blastoise    Type: Water     Health: 9  
+Index: 10  Name: Caterpie     Type: Bug       Health: 9  
+Index: 11  Name: Metapod      Type: Bug       Health: 9  
+Index: 12  Name: Butterfree   Type: Bug       Health: 9  
+Index: 13  Name: Weedle       Type: Bug       Health: 9  
+Index: 14  Name: Kakuna       Type: Bug       Health: 9  
+Index: 15  Name: Beedrill     Type: Bug       Health: 9  
+Index: 16  Name: Pidgey       Type: Normal    Health: 9  
+Index: 17  Name: Pidgeotto    Type: Normal    Health: 9  
+Index: 18  Name: Pidgeot      Type: Normal    Health: 9  
+Index: 19  Name: Rattata      Type: Normal    Health: 9  
+Index: 20  Name: Raticate     Type: Normal    Health: 9  
+Index: 21  Name: Spearow      Type: Normal    Health: 9  
+Index: 22  Name: Fearow       Type: Normal    Health: 9  
+Index: 23  Name: Ekans        Type: Poison    Health: 9  
+Index: 24  Name: Arbok        Type: Poison    Health: 9  
+Index: 25  Name: Pikachu      Type: Electric  Health: 9  
+Index: 26  Name: Raichu       Type: Electric  Health: 9  
+Index: 27  Name: Sandshrew    Type: Ground    Health: 9  
+Index: 28  Name: Sandslash    Type: Ground    Health: 9  
+Index: 29  Name: Nidoran(m)   Type: Poison    Health: 9  
+Index: 30  Name: Nidorina     Type: Poison    Health: 9  
+Index: 31  Name: Nidoqueen    Type: Poison    Health: 9  
+Index: 32  Name: Nidoran(f)   Type: Poison    Health: 9  
+Index: 33  Name: Nidorino     Type: Poison    Health: 9  
+Index: 34  Name: Nidoking     Type: Poison    Health: 9  
+Index: 35  Name: Clefairy     Type: Fairy     Health: 9  
+Index: 36  Name: Clefable     Type: Fairy     Health: 9  
+Index: 37  Name: Vulpix       Type: Fire      Health: 9  
+Index: 38  Name: Ninetales    Type: Fire      Health: 9  
+Index: 39  Name: Jigglypuff   Type: Normal    Health: 9  
+Index: 40  Name: Wigglytuff   Type: Normal    Health: 9  
+Index: 41  Name: Zubat        Type: Poison    Health: 9  
+Index: 42  Name: Golbat       Type: Poison    Health: 9  
+Index: 43  Name: Oddish       Type: Grass     Health: 9  
+Index: 44  Name: Gloom        Type: Grass     Health: 9  
+Index: 45  Name: Vileplume    Type: Grass     Health: 9  
+Index: 46  Name: Paras        Type: Bug       Health: 9  
+Index: 47  Name: Parasect     Type: Bug       Health: 9  
+Index: 48  Name: Venonat      Type: Bug       Health: 9  
+Index: 49  Name: Venomoth     Type: Bug       Health: 9  
+Index: 50  Name: Diglett      Type: Ground    Health: 9  
+Index: 51  Name: Dugtrio      Type: Ground    Health: 9  
+Index: 52  Name: Meowth       Type: Normal    Health: 9  
+Index: 53  Name: Persian      Type: Normal    Health: 9  
+Index: 54  Name: Psyduck      Type: Water     Health: 9  
+Index: 55  Name: Golduck      Type: Water     Health: 9  
+Index: 56  Name: Mankey       Type: Fighting  Health: 9  
+Index: 57  Name: Primeape     Type: Fighting  Health: 9  
+Index: 58  Name: Growlithe    Type: Fire      Health: 9  
+Index: 59  Name: Arcanine     Type: Fire      Health: 9  
+Index: 60  Name: Poliwag      Type: Water     Health: 9  
+Index: 61  Name: Poliwhirl    Type: Water     Health: 9  
+Index: 62  Name: Poliwrath    Type: Water     Health: 9  
+Index: 63  Name: Abra         Type: Psychic   Health: 9  
+Index: 64  Name: Kadabra      Type: Psychic   Health: 9  
+Index: 65  Name: Alakazam     Type: Psychic   Health: 9  
+Index: 66  Name: Machop       Type: Fighting  Health: 9  
+Index: 67  Name: Machoke      Type: Fighting  Health: 9  
+Index: 68  Name: Machamp      Type: Fighting  Health: 9  
+Index: 69  Name: Bellsprout   Type: Grass     Health: 9  
+Index: 70  Name: Weepinbell   Type: Grass     Health: 9  
+Index: 71  Name: Victreebel   Type: Grass     Health: 9  
+Index: 72  Name: Tentacool    Type: Water     Health: 9  
+Index: 73  Name: Tentacruel   Type: Water     Health: 9  
+Index: 74  Name: Geodude      Type: Rock      Health: 9  
+Index: 75  Name: Graveler     Type: Rock      Health: 9  
+Index: 76  Name: Golem        Type: Rock      Health: 9  
+Index: 77  Name: Ponyta       Type: Fire      Health: 9  
+Index: 78  Name: Rapidash     Type: Fire      Health: 9  
+Index: 79  Name: Slowpoke     Type: Water     Health: 9  
+Index: 80  Name: Slowbro      Type: Water     Health: 9  
+Index: 81  Name: Magnemite    Type: Electric  Health: 9  
+Index: 82  Name: Magneton     Type: Electric  Health: 9  
+Index: 83  Name: Farfetch'd   Type: Normal    Health: 9  
+Index: 84  Name: Doduo        Type: Normal    Health: 9  
+Index: 85  Name: Dodrio       Type: Normal    Health: 9  
+Index: 86  Name: Seel         Type: Water     Health: 9  
+Index: 87  Name: Dewgong      Type: Water     Health: 9  
+Index: 88  Name: Grimer       Type: Poison    Health: 9  
+Index: 89  Name: Muk          Type: Poison    Health: 9  
+Index: 90  Name: Shellder     Type: Water     Health: 9  
+Index: 91  Name: Cloyster     Type: Water     Health: 9  
+Index: 92  Name: Gastly       Type: Ghost     Health: 9  
+Index: 93  Name: Haunter      Type: Ghost     Health: 9  
+Index: 94  Name: Gengar       Type: Ghost     Health: 9  
+Index: 95  Name: Onix         Type: Rock      Health: 9  
+Index: 96  Name: Drowzee      Type: Psychic   Health: 9  
+Index: 97  Name: Hypno        Type: Psychic   Health: 9  
+Index: 98  Name: Krabby       Type: Water     Health: 9  
+Index: 99  Name: Kingler      Type: Water     Health: 9  
+Index: 100 Name: Voltorb      Type: Electric  Health: 9  
+Index: 101 Name: Electrode    Type: Electric  Health: 9  
+Index: 102 Name: Exeggcute    Type: Grass     Health: 9  
+Index: 103 Name: Exeggutor    Type: Grass     Health: 9  
+Index: 104 Name: Cubone       Type: Ground    Health: 9  
+Index: 105 Name: Marowak      Type: Ground    Health: 9  
+Index: 106 Name: Hitmonlee    Type: Fighting  Health: 9  
+Index: 107 Name: Hitmonchan   Type: Fighting  Health: 9  
+Index: 108 Name: Lickitung    Type: Normal    Health: 9  
+Index: 109 Name: Koffing      Type: Poison    Health: 9  
+Index: 110 Name: Weezing      Type: Poison    Health: 9  
+Index: 111 Name: Rhyhorn      Type: Ground    Health: 9  
+Index: 112 Name: Rhydon       Type: Ground    Health: 9  
+Index: 113 Name: Chansey      Type: Normal    Health: 9  
+Index: 114 Name: Tangela      Type: Grass     Health: 9  
+Index: 115 Name: Kangaskhan   Type: Normal    Health: 9  
+Index: 116 Name: Horsea       Type: Water     Health: 9  
+Index: 117 Name: Seadra       Type: Water     Health: 9  
+Index: 118 Name: Goldeen      Type: Water     Health: 9  
+Index: 119 Name: Seaking      Type: Water     Health: 9  
+Index: 120 Name: Staryu       Type: Water     Health: 9  
+Index: 121 Name: Starmie      Type: Water     Health: 9  
+Index: 122 Name: Mr. Mime     Type: Psychic   Health: 9  
+Index: 123 Name: Scyther      Type: Bug       Health: 9  
+Index: 124 Name: Jynx         Type: Ice       Health: 9  
+Index: 125 Name: Electabuzz   Type: Electric  Health: 9  
+Index: 126 Name: Magmar       Type: Fire      Health: 9  
+Index: 127 Name: Pinsir       Type: Bug       Health: 9  
+Index: 128 Name: Tauros       Type: Normal    Health: 9  
+Index: 129 Name: Magikarp     Type: Water     Health: 9  
+Index: 130 Name: Gyarados     Type: Water     Health: 9  
+Index: 131 Name: Lapras       Type: Water     Health: 9  
+Index: 132 Name: Ditto        Type: Normal    Health: 9  
+Index: 133 Name: Eevee        Type: Normal    Health: 9  
+Index: 134 Name: Vaporeon     Type: Water     Health: 9  
+Index: 135 Name: Jolteon      Type: Electric  Health: 9  
+Index: 136 Name: Flareon      Type: Fire      Health: 9  
+Index: 137 Name: Porygon      Type: Normal    Health: 9  
+Index: 138 Name: Omanyte      Type: Rock      Health: 9  
+Index: 139 Name: Omastar      Type: Rock      Health: 9  
+Index: 140 Name: Kabuto       Type: Rock      Health: 9  
+Index: 141 Name: Kabutops     Type: Rock      Health: 9  
+Index: 142 Name: Aerodactyl   Type: Rock      Health: 9  
+Index: 143 Name: Snorlax      Type: Normal    Health: 9  
+Index: 144 Name: Articuno     Type: Ice       Health: 9  
+Index: 145 Name: Zapdos       Type: Electric  Health: 9  
+Index: 146 Name: Moltres      Type: Fire      Health: 9  
+Index: 147 Name: Dratini      Type: Dragon    Health: 9  
+Index: 148 Name: Dragonair    Type: Dragon    Health: 9  
+Index: 149 Name: Dragonite    Type: Dragon    Health: 9  
+Index: 150 Name: Mewtwo       Type: Psychic   Health: 9  
+Index: 151 Name: Mew          Type: Psychic   Health: 9  
+------------------------------
+Pick a pokemon by enter the index (3 left):
+3
+Here is a list of Pokemons you can choose from: 
+------------------------------
+Index: 4   Name: Charmander   Type: Fire      Health: 9  
+Index: 5   Name: Charmeleon   Type: Fire      Health: 9  
+Index: 6   Name: Charizard    Type: Fire      Health: 9  
+Index: 7   Name: Squirtle     Type: Water     Health: 9  
+Index: 8   Name: Wartortle    Type: Water     Health: 9  
+Index: 9   Name: Blastoise    Type: Water     Health: 9  
+Index: 10  Name: Caterpie     Type: Bug       Health: 9  
+Index: 11  Name: Metapod      Type: Bug       Health: 9  
+Index: 12  Name: Butterfree   Type: Bug       Health: 9  
+Index: 13  Name: Weedle       Type: Bug       Health: 9  
+Index: 14  Name: Kakuna       Type: Bug       Health: 9  
+Index: 15  Name: Beedrill     Type: Bug       Health: 9  
+Index: 16  Name: Pidgey       Type: Normal    Health: 9  
+Index: 17  Name: Pidgeotto    Type: Normal    Health: 9  
+Index: 18  Name: Pidgeot      Type: Normal    Health: 9  
+Index: 19  Name: Rattata      Type: Normal    Health: 9  
+Index: 20  Name: Raticate     Type: Normal    Health: 9  
+Index: 21  Name: Spearow      Type: Normal    Health: 9  
+Index: 22  Name: Fearow       Type: Normal    Health: 9  
+Index: 23  Name: Ekans        Type: Poison    Health: 9  
+Index: 24  Name: Arbok        Type: Poison    Health: 9  
+Index: 25  Name: Pikachu      Type: Electric  Health: 9  
+Index: 26  Name: Raichu       Type: Electric  Health: 9  
+Index: 27  Name: Sandshrew    Type: Ground    Health: 9  
+Index: 28  Name: Sandslash    Type: Ground    Health: 9  
+Index: 29  Name: Nidoran(m)   Type: Poison    Health: 9  
+Index: 30  Name: Nidorina     Type: Poison    Health: 9  
+Index: 31  Name: Nidoqueen    Type: Poison    Health: 9  
+Index: 32  Name: Nidoran(f)   Type: Poison    Health: 9  
+Index: 33  Name: Nidorino     Type: Poison    Health: 9  
+Index: 34  Name: Nidoking     Type: Poison    Health: 9  
+Index: 35  Name: Clefairy     Type: Fairy     Health: 9  
+Index: 36  Name: Clefable     Type: Fairy     Health: 9  
+Index: 37  Name: Vulpix       Type: Fire      Health: 9  
+Index: 38  Name: Ninetales    Type: Fire      Health: 9  
+Index: 39  Name: Jigglypuff   Type: Normal    Health: 9  
+Index: 40  Name: Wigglytuff   Type: Normal    Health: 9  
+Index: 41  Name: Zubat        Type: Poison    Health: 9  
+Index: 42  Name: Golbat       Type: Poison    Health: 9  
+Index: 43  Name: Oddish       Type: Grass     Health: 9  
+Index: 44  Name: Gloom        Type: Grass     Health: 9  
+Index: 45  Name: Vileplume    Type: Grass     Health: 9  
+Index: 46  Name: Paras        Type: Bug       Health: 9  
+Index: 47  Name: Parasect     Type: Bug       Health: 9  
+Index: 48  Name: Venonat      Type: Bug       Health: 9  
+Index: 49  Name: Venomoth     Type: Bug       Health: 9  
+Index: 50  Name: Diglett      Type: Ground    Health: 9  
+Index: 51  Name: Dugtrio      Type: Ground    Health: 9  
+Index: 52  Name: Meowth       Type: Normal    Health: 9  
+Index: 53  Name: Persian      Type: Normal    Health: 9  
+Index: 54  Name: Psyduck      Type: Water     Health: 9  
+Index: 55  Name: Golduck      Type: Water     Health: 9  
+Index: 56  Name: Mankey       Type: Fighting  Health: 9  
+Index: 57  Name: Primeape     Type: Fighting  Health: 9  
+Index: 58  Name: Growlithe    Type: Fire      Health: 9  
+Index: 59  Name: Arcanine     Type: Fire      Health: 9  
+Index: 60  Name: Poliwag      Type: Water     Health: 9  
+Index: 61  Name: Poliwhirl    Type: Water     Health: 9  
+Index: 62  Name: Poliwrath    Type: Water     Health: 9  
+Index: 63  Name: Abra         Type: Psychic   Health: 9  
+Index: 64  Name: Kadabra      Type: Psychic   Health: 9  
+Index: 65  Name: Alakazam     Type: Psychic   Health: 9  
+Index: 66  Name: Machop       Type: Fighting  Health: 9  
+Index: 67  Name: Machoke      Type: Fighting  Health: 9  
+Index: 68  Name: Machamp      Type: Fighting  Health: 9  
+Index: 69  Name: Bellsprout   Type: Grass     Health: 9  
+Index: 70  Name: Weepinbell   Type: Grass     Health: 9  
+Index: 71  Name: Victreebel   Type: Grass     Health: 9  
+Index: 72  Name: Tentacool    Type: Water     Health: 9  
+Index: 73  Name: Tentacruel   Type: Water     Health: 9  
+Index: 74  Name: Geodude      Type: Rock      Health: 9  
+Index: 75  Name: Graveler     Type: Rock      Health: 9  
+Index: 76  Name: Golem        Type: Rock      Health: 9  
+Index: 77  Name: Ponyta       Type: Fire      Health: 9  
+Index: 78  Name: Rapidash     Type: Fire      Health: 9  
+Index: 79  Name: Slowpoke     Type: Water     Health: 9  
+Index: 80  Name: Slowbro      Type: Water     Health: 9  
+Index: 81  Name: Magnemite    Type: Electric  Health: 9  
+Index: 82  Name: Magneton     Type: Electric  Health: 9  
+Index: 83  Name: Farfetch'd   Type: Normal    Health: 9  
+Index: 84  Name: Doduo        Type: Normal    Health: 9  
+Index: 85  Name: Dodrio       Type: Normal    Health: 9  
+Index: 86  Name: Seel         Type: Water     Health: 9  
+Index: 87  Name: Dewgong      Type: Water     Health: 9  
+Index: 88  Name: Grimer       Type: Poison    Health: 9  
+Index: 89  Name: Muk          Type: Poison    Health: 9  
+Index: 90  Name: Shellder     Type: Water     Health: 9  
+Index: 91  Name: Cloyster     Type: Water     Health: 9  
+Index: 92  Name: Gastly       Type: Ghost     Health: 9  
+Index: 93  Name: Haunter      Type: Ghost     Health: 9  
+Index: 94  Name: Gengar       Type: Ghost     Health: 9  
+Index: 95  Name: Onix         Type: Rock      Health: 9  
+Index: 96  Name: Drowzee      Type: Psychic   Health: 9  
+Index: 97  Name: Hypno        Type: Psychic   Health: 9  
+Index: 98  Name: Krabby       Type: Water     Health: 9  
+Index: 99  Name: Kingler      Type: Water     Health: 9  
+Index: 100 Name: Voltorb      Type: Electric  Health: 9  
+Index: 101 Name: Electrode    Type: Electric  Health: 9  
+Index: 102 Name: Exeggcute    Type: Grass     Health: 9  
+Index: 103 Name: Exeggutor    Type: Grass     Health: 9  
+Index: 104 Name: Cubone       Type: Ground    Health: 9  
+Index: 105 Name: Marowak      Type: Ground    Health: 9  
+Index: 106 Name: Hitmonlee    Type: Fighting  Health: 9  
+Index: 107 Name: Hitmonchan   Type: Fighting  Health: 9  
+Index: 108 Name: Lickitung    Type: Normal    Health: 9  
+Index: 109 Name: Koffing      Type: Poison    Health: 9  
+Index: 110 Name: Weezing      Type: Poison    Health: 9  
+Index: 111 Name: Rhyhorn      Type: Ground    Health: 9  
+Index: 112 Name: Rhydon       Type: Ground    Health: 9  
+Index: 113 Name: Chansey      Type: Normal    Health: 9  
+Index: 114 Name: Tangela      Type: Grass     Health: 9  
+Index: 115 Name: Kangaskhan   Type: Normal    Health: 9  
+Index: 116 Name: Horsea       Type: Water     Health: 9  
+Index: 117 Name: Seadra       Type: Water     Health: 9  
+Index: 118 Name: Goldeen      Type: Water     Health: 9  
+Index: 119 Name: Seaking      Type: Water     Health: 9  
+Index: 120 Name: Staryu       Type: Water     Health: 9  
+Index: 121 Name: Starmie      Type: Water     Health: 9  
+Index: 122 Name: Mr. Mime     Type: Psychic   Health: 9  
+Index: 123 Name: Scyther      Type: Bug       Health: 9  
+Index: 124 Name: Jynx         Type: Ice       Health: 9  
+Index: 125 Name: Electabuzz   Type: Electric  Health: 9  
+Index: 126 Name: Magmar       Type: Fire      Health: 9  
+Index: 127 Name: Pinsir       Type: Bug       Health: 9  
+Index: 128 Name: Tauros       Type: Normal    Health: 9  
+Index: 129 Name: Magikarp     Type: Water     Health: 9  
+Index: 130 Name: Gyarados     Type: Water     Health: 9  
+Index: 131 Name: Lapras       Type: Water     Health: 9  
+Index: 132 Name: Ditto        Type: Normal    Health: 9  
+Index: 133 Name: Eevee        Type: Normal    Health: 9  
+Index: 134 Name: Vaporeon     Type: Water     Health: 9  
+Index: 135 Name: Jolteon      Type: Electric  Health: 9  
+Index: 136 Name: Flareon      Type: Fire      Health: 9  
+Index: 137 Name: Porygon      Type: Normal    Health: 9  
+Index: 138 Name: Omanyte      Type: Rock      Health: 9  
+Index: 139 Name: Omastar      Type: Rock      Health: 9  
+Index: 140 Name: Kabuto       Type: Rock      Health: 9  
+Index: 141 Name: Kabutops     Type: Rock      Health: 9  
+Index: 142 Name: Aerodactyl   Type: Rock      Health: 9  
+Index: 143 Name: Snorlax      Type: Normal    Health: 9  
+Index: 144 Name: Articuno     Type: Ice       Health: 9  
+Index: 145 Name: Zapdos       Type: Electric  Health: 9  
+Index: 146 Name: Moltres      Type: Fire      Health: 9  
+Index: 147 Name: Dratini      Type: Dragon    Health: 9  
+Index: 148 Name: Dragonair    Type: Dragon    Health: 9  
+Index: 149 Name: Dragonite    Type: Dragon    Health: 9  
+Index: 150 Name: Mewtwo       Type: Psychic   Health: 9  
+Index: 151 Name: Mew          Type: Psychic   Health: 9  
+------------------------------
+Pick a pokemon by enter the index (2 left):
+4
+Here is a list of Pokemons you can choose from: 
+------------------------------
+Index: 5   Name: Charmeleon   Type: Fire      Health: 9  
+Index: 6   Name: Charizard    Type: Fire      Health: 9  
+Index: 7   Name: Squirtle     Type: Water     Health: 9  
+Index: 8   Name: Wartortle    Type: Water     Health: 9  
+Index: 9   Name: Blastoise    Type: Water     Health: 9  
+Index: 10  Name: Caterpie     Type: Bug       Health: 9  
+Index: 11  Name: Metapod      Type: Bug       Health: 9  
+Index: 12  Name: Butterfree   Type: Bug       Health: 9  
+Index: 13  Name: Weedle       Type: Bug       Health: 9  
+Index: 14  Name: Kakuna       Type: Bug       Health: 9  
+Index: 15  Name: Beedrill     Type: Bug       Health: 9  
+Index: 16  Name: Pidgey       Type: Normal    Health: 9  
+Index: 17  Name: Pidgeotto    Type: Normal    Health: 9  
+Index: 18  Name: Pidgeot      Type: Normal    Health: 9  
+Index: 19  Name: Rattata      Type: Normal    Health: 9  
+Index: 20  Name: Raticate     Type: Normal    Health: 9  
+Index: 21  Name: Spearow      Type: Normal    Health: 9  
+Index: 22  Name: Fearow       Type: Normal    Health: 9  
+Index: 23  Name: Ekans        Type: Poison    Health: 9  
+Index: 24  Name: Arbok        Type: Poison    Health: 9  
+Index: 25  Name: Pikachu      Type: Electric  Health: 9  
+Index: 26  Name: Raichu       Type: Electric  Health: 9  
+Index: 27  Name: Sandshrew    Type: Ground    Health: 9  
+Index: 28  Name: Sandslash    Type: Ground    Health: 9  
+Index: 29  Name: Nidoran(m)   Type: Poison    Health: 9  
+Index: 30  Name: Nidorina     Type: Poison    Health: 9  
+Index: 31  Name: Nidoqueen    Type: Poison    Health: 9  
+Index: 32  Name: Nidoran(f)   Type: Poison    Health: 9  
+Index: 33  Name: Nidorino     Type: Poison    Health: 9  
+Index: 34  Name: Nidoking     Type: Poison    Health: 9  
+Index: 35  Name: Clefairy     Type: Fairy     Health: 9  
+Index: 36  Name: Clefable     Type: Fairy     Health: 9  
+Index: 37  Name: Vulpix       Type: Fire      Health: 9  
+Index: 38  Name: Ninetales    Type: Fire      Health: 9  
+Index: 39  Name: Jigglypuff   Type: Normal    Health: 9  
+Index: 40  Name: Wigglytuff   Type: Normal    Health: 9  
+Index: 41  Name: Zubat        Type: Poison    Health: 9  
+Index: 42  Name: Golbat       Type: Poison    Health: 9  
+Index: 43  Name: Oddish       Type: Grass     Health: 9  
+Index: 44  Name: Gloom        Type: Grass     Health: 9  
+Index: 45  Name: Vileplume    Type: Grass     Health: 9  
+Index: 46  Name: Paras        Type: Bug       Health: 9  
+Index: 47  Name: Parasect     Type: Bug       Health: 9  
+Index: 48  Name: Venonat      Type: Bug       Health: 9  
+Index: 49  Name: Venomoth     Type: Bug       Health: 9  
+Index: 50  Name: Diglett      Type: Ground    Health: 9  
+Index: 51  Name: Dugtrio      Type: Ground    Health: 9  
+Index: 52  Name: Meowth       Type: Normal    Health: 9  
+Index: 53  Name: Persian      Type: Normal    Health: 9  
+Index: 54  Name: Psyduck      Type: Water     Health: 9  
+Index: 55  Name: Golduck      Type: Water     Health: 9  
+Index: 56  Name: Mankey       Type: Fighting  Health: 9  
+Index: 57  Name: Primeape     Type: Fighting  Health: 9  
+Index: 58  Name: Growlithe    Type: Fire      Health: 9  
+Index: 59  Name: Arcanine     Type: Fire      Health: 9  
+Index: 60  Name: Poliwag      Type: Water     Health: 9  
+Index: 61  Name: Poliwhirl    Type: Water     Health: 9  
+Index: 62  Name: Poliwrath    Type: Water     Health: 9  
+Index: 63  Name: Abra         Type: Psychic   Health: 9  
+Index: 64  Name: Kadabra      Type: Psychic   Health: 9  
+Index: 65  Name: Alakazam     Type: Psychic   Health: 9  
+Index: 66  Name: Machop       Type: Fighting  Health: 9  
+Index: 67  Name: Machoke      Type: Fighting  Health: 9  
+Index: 68  Name: Machamp      Type: Fighting  Health: 9  
+Index: 69  Name: Bellsprout   Type: Grass     Health: 9  
+Index: 70  Name: Weepinbell   Type: Grass     Health: 9  
+Index: 71  Name: Victreebel   Type: Grass     Health: 9  
+Index: 72  Name: Tentacool    Type: Water     Health: 9  
+Index: 73  Name: Tentacruel   Type: Water     Health: 9  
+Index: 74  Name: Geodude      Type: Rock      Health: 9  
+Index: 75  Name: Graveler     Type: Rock      Health: 9  
+Index: 76  Name: Golem        Type: Rock      Health: 9  
+Index: 77  Name: Ponyta       Type: Fire      Health: 9  
+Index: 78  Name: Rapidash     Type: Fire      Health: 9  
+Index: 79  Name: Slowpoke     Type: Water     Health: 9  
+Index: 80  Name: Slowbro      Type: Water     Health: 9  
+Index: 81  Name: Magnemite    Type: Electric  Health: 9  
+Index: 82  Name: Magneton     Type: Electric  Health: 9  
+Index: 83  Name: Farfetch'd   Type: Normal    Health: 9  
+Index: 84  Name: Doduo        Type: Normal    Health: 9  
+Index: 85  Name: Dodrio       Type: Normal    Health: 9  
+Index: 86  Name: Seel         Type: Water     Health: 9  
+Index: 87  Name: Dewgong      Type: Water     Health: 9  
+Index: 88  Name: Grimer       Type: Poison    Health: 9  
+Index: 89  Name: Muk          Type: Poison    Health: 9  
+Index: 90  Name: Shellder     Type: Water     Health: 9  
+Index: 91  Name: Cloyster     Type: Water     Health: 9  
+Index: 92  Name: Gastly       Type: Ghost     Health: 9  
+Index: 93  Name: Haunter      Type: Ghost     Health: 9  
+Index: 94  Name: Gengar       Type: Ghost     Health: 9  
+Index: 95  Name: Onix         Type: Rock      Health: 9  
+Index: 96  Name: Drowzee      Type: Psychic   Health: 9  
+Index: 97  Name: Hypno        Type: Psychic   Health: 9  
+Index: 98  Name: Krabby       Type: Water     Health: 9  
+Index: 99  Name: Kingler      Type: Water     Health: 9  
+Index: 100 Name: Voltorb      Type: Electric  Health: 9  
+Index: 101 Name: Electrode    Type: Electric  Health: 9  
+Index: 102 Name: Exeggcute    Type: Grass     Health: 9  
+Index: 103 Name: Exeggutor    Type: Grass     Health: 9  
+Index: 104 Name: Cubone       Type: Ground    Health: 9  
+Index: 105 Name: Marowak      Type: Ground    Health: 9  
+Index: 106 Name: Hitmonlee    Type: Fighting  Health: 9  
+Index: 107 Name: Hitmonchan   Type: Fighting  Health: 9  
+Index: 108 Name: Lickitung    Type: Normal    Health: 9  
+Index: 109 Name: Koffing      Type: Poison    Health: 9  
+Index: 110 Name: Weezing      Type: Poison    Health: 9  
+Index: 111 Name: Rhyhorn      Type: Ground    Health: 9  
+Index: 112 Name: Rhydon       Type: Ground    Health: 9  
+Index: 113 Name: Chansey      Type: Normal    Health: 9  
+Index: 114 Name: Tangela      Type: Grass     Health: 9  
+Index: 115 Name: Kangaskhan   Type: Normal    Health: 9  
+Index: 116 Name: Horsea       Type: Water     Health: 9  
+Index: 117 Name: Seadra       Type: Water     Health: 9  
+Index: 118 Name: Goldeen      Type: Water     Health: 9  
+Index: 119 Name: Seaking      Type: Water     Health: 9  
+Index: 120 Name: Staryu       Type: Water     Health: 9  
+Index: 121 Name: Starmie      Type: Water     Health: 9  
+Index: 122 Name: Mr. Mime     Type: Psychic   Health: 9  
+Index: 123 Name: Scyther      Type: Bug       Health: 9  
+Index: 124 Name: Jynx         Type: Ice       Health: 9  
+Index: 125 Name: Electabuzz   Type: Electric  Health: 9  
+Index: 126 Name: Magmar       Type: Fire      Health: 9  
+Index: 127 Name: Pinsir       Type: Bug       Health: 9  
+Index: 128 Name: Tauros       Type: Normal    Health: 9  
+Index: 129 Name: Magikarp     Type: Water     Health: 9  
+Index: 130 Name: Gyarados     Type: Water     Health: 9  
+Index: 131 Name: Lapras       Type: Water     Health: 9  
+Index: 132 Name: Ditto        Type: Normal    Health: 9  
+Index: 133 Name: Eevee        Type: Normal    Health: 9  
+Index: 134 Name: Vaporeon     Type: Water     Health: 9  
+Index: 135 Name: Jolteon      Type: Electric  Health: 9  
+Index: 136 Name: Flareon      Type: Fire      Health: 9  
+Index: 137 Name: Porygon      Type: Normal    Health: 9  
+Index: 138 Name: Omanyte      Type: Rock      Health: 9  
+Index: 139 Name: Omastar      Type: Rock      Health: 9  
+Index: 140 Name: Kabuto       Type: Rock      Health: 9  
+Index: 141 Name: Kabutops     Type: Rock      Health: 9  
+Index: 142 Name: Aerodactyl   Type: Rock      Health: 9  
+Index: 143 Name: Snorlax      Type: Normal    Health: 9  
+Index: 144 Name: Articuno     Type: Ice       Health: 9  
+Index: 145 Name: Zapdos       Type: Electric  Health: 9  
+Index: 146 Name: Moltres      Type: Fire      Health: 9  
+Index: 147 Name: Dratini      Type: Dragon    Health: 9  
+Index: 148 Name: Dragonair    Type: Dragon    Health: 9  
+Index: 149 Name: Dragonite    Type: Dragon    Health: 9  
+Index: 150 Name: Mewtwo       Type: Psychic   Health: 9  
+Index: 151 Name: Mew          Type: Psychic   Health: 9  
+------------------------------
+Pick a pokemon by enter the index (1 left):
+5
+------------------------------
+Print player pocket
+Index: 1   Name: Bulbasaur    Type: Grass     Health: 9  
+Index: 2   Name: Ivysaur      Type: Grass     Health: 9  
+Index: 3   Name: Venusaur     Type: Grass     Health: 9  
+Index: 4   Name: Charmander   Type: Fire      Health: 9  
+Index: 5   Name: Charmeleon   Type: Fire      Health: 9  
+------------------------------
+Print cpu pocket
+Index: 63  Name: Abra         Type: Psychic   Health: 9  
+Index: 116 Name: Horsea       Type: Water     Health: 9  
+Index: 49  Name: Venomoth     Type: Bug       Health: 9  
+Index: 92  Name: Gastly       Type: Ghost     Health: 9  
+Index: 74  Name: Geodude      Type: Rock      Health: 9  
+------------------------------
+Round 1: 
+CPU's Pokemon: Abra (Psychic:9 health)
+Your Pokemon: Bulbasaur (Grass:9 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+------------------------------
+Round 2: 
+CPU's Pokemon: Abra (Psychic:7 health)
+Your Pokemon: Bulbasaur (Grass:6 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+------------------------------
+Round 3: 
+CPU's Pokemon: Abra (Psychic:5 health)
+Your Pokemon: Bulbasaur (Grass:3 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+Your pokemon has been defeated
+Which Pokemon would you like to choose? (Enter the index#)
+Index: 2   Name: Ivysaur      Type: Grass     Health: 9  
+Index: 3   Name: Venusaur     Type: Grass     Health: 9  
+Index: 4   Name: Charmander   Type: Fire      Health: 9  
+Index: 5   Name: Charmeleon   Type: Fire      Health: 9  
+2
+choice is head
+You changed your pokemon to :Ivysaur (Grass:9 health)
+------------------------------
+Round 4: 
+CPU's Pokemon: Abra (Psychic:3 health)
+Your Pokemon: Ivysaur (Grass:9 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+------------------------------
+Round 5: 
+CPU's Pokemon: Abra (Psychic:1 health)
+Your Pokemon: Ivysaur (Grass:6 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+CPU's pokemon has been defeated
+CPU changed its pokemon to: Horsea (Water:9 health)
+------------------------------
+Round 6: 
+CPU's Pokemon: Horsea (Water:9 health)
+Your Pokemon: Ivysaur (Grass:6 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+------------------------------
+Round 7: 
+CPU's Pokemon: Horsea (Water:7 health)
+Your Pokemon: Ivysaur (Grass:3 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+Your pokemon has been defeated
+Which Pokemon would you like to choose? (Enter the index#)
+Index: 3   Name: Venusaur     Type: Grass     Health: 9  
+Index: 4   Name: Charmander   Type: Fire      Health: 9  
+Index: 5   Name: Charmeleon   Type: Fire      Health: 9  
+3
+choice is head
+You changed your pokemon to :Venusaur (Grass:9 health)
+------------------------------
+Round 8: 
+CPU's Pokemon: Horsea (Water:5 health)
+Your Pokemon: Venusaur (Grass:9 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+------------------------------
+Round 9: 
+CPU's Pokemon: Horsea (Water:3 health)
+Your Pokemon: Venusaur (Grass:6 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+------------------------------
+Round 10: 
+CPU's Pokemon: Horsea (Water:1 health)
+Your Pokemon: Venusaur (Grass:3 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+CPU's pokemon has been defeated
+CPU changed its pokemon to: Venomoth (Bug:9 health)
+------------------------------
+Round 11: 
+CPU's Pokemon: Venomoth (Bug:9 health)
+Your Pokemon: Venusaur (Grass:3 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+Your pokemon has been defeated
+Which Pokemon would you like to choose? (Enter the index#)
+Index: 4   Name: Charmander   Type: Fire      Health: 9  
+Index: 5   Name: Charmeleon   Type: Fire      Health: 9  
+4
+choice is head
+You changed your pokemon to :Charmander (Fire:9 health)
+------------------------------
+Round 12: 
+CPU's Pokemon: Venomoth (Bug:7 health)
+Your Pokemon: Charmander (Fire:9 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+------------------------------
+Round 13: 
+CPU's Pokemon: Venomoth (Bug:5 health)
+Your Pokemon: Charmander (Fire:6 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+------------------------------
+Round 14: 
+CPU's Pokemon: Venomoth (Bug:3 health)
+Your Pokemon: Charmander (Fire:3 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+Your pokemon has been defeated
+THIS IS YOUR LAST POKEMON!!!
+------------------------------
+Round 15: 
+CPU's Pokemon: Venomoth (Bug:1 health)
+Your Pokemon: Charmeleon (Fire:9 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+CPU's pokemon has been defeated
+CPU changed its pokemon to: Gastly (Ghost:9 health)
+------------------------------
+Round 16: 
+CPU's Pokemon: Gastly (Ghost:9 health)
+Your Pokemon: Charmeleon (Fire:9 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+------------------------------
+Round 17: 
+CPU's Pokemon: Gastly (Ghost:7 health)
+Your Pokemon: Charmeleon (Fire:6 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+------------------------------
+Round 18: 
+CPU's Pokemon: Gastly (Ghost:5 health)
+Your Pokemon: Charmeleon (Fire:3 health)
+------------------------------
+Menu:
+1. Attack
+2. Swap
+3. Forfeit
+------------------------------
+1
+CPU's pokemon took 2 damage
+Your pokemon took 3 damage
+Your pokemon has been defeated
+------------------------------
+CPU won!!!

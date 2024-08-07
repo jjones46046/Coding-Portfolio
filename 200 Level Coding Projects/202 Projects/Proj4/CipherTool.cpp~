@@ -1,0 +1,221 @@
+/**************************************
+ ** File: CipherTool.cpp
+ ** Project: CMSC 202 Project 4, Spring 2020
+ ** Author: Jared Jones
+ ** Date: 4/20/20
+ ** Section: 11
+ ** Email: jjones20@umbc.edu
+ **
+ ** This file contains the functions for CipherTool.h
+ ** This function loads dynamically allocated ciphers, displays said ciphers,
+ ** calls encryption and decryption functions for each cipher, handles the main menu,
+ ** and exports ciphers to a reusable text file.
+ **
+ *************************************/
+
+
+#include <string>
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <cmath>
+#include <cstdlib>
+#include <vector>
+#include <ctime>
+#include "Cipher.h"
+#include "CipherTool.h"
+using namespace std;
+
+
+CipherTool::CipherTool(string fileName) {
+  m_filename = fileName;
+}
+
+CipherTool::~CipherTool() {
+  int size = m_ciphers.size();
+  for (int i = 0; i < size; i++) {
+    delete m_ciphers[i];
+    m_ciphers[i] = nullptr;
+  }
+}
+
+void CipherTool::LoadFile() {
+  ifstream Ciphers;
+  string message,line,key,shift,cipherType,encrypted;
+  int count = -1; int numValues = 4; int shiftVal = 0;
+  bool isEncrypted = false;
+  char name = ' ';
+  Ciphers.open(m_filename);
+
+  //Getting a count of how many lines there are in the text file.
+  if(Ciphers.is_open()) {
+    while(Ciphers.eof() != true) {
+      getline(Ciphers,line);
+      count++;
+    }
+    Ciphers.close();
+  }
+  
+  Ciphers.open(m_filename);
+  for (int i = 0; i < count; i++) {
+    for (int j = 0; j < numValues;j++ ) {
+      switch(j) {
+      case 0:
+	getline(Ciphers, cipherType, '|');
+	break;
+      case 1:
+	getline(Ciphers, encrypted, '|');
+	break;
+      case 2:
+	getline(Ciphers, message, '|');
+	break;
+      case 3:
+	//Also converting 'encrypted'
+	stringstream encrypt(encrypted);
+	encrypt >> isEncrypted;
+	
+	//Adding caesar ciphers to m_ciphers;
+	if (cipherType[0] == 'c') {
+	  //Converting the value for shift from a string to an int.
+	  getline(Ciphers, shift);
+	  stringstream geek(shift);
+	  geek >> shiftVal;
+
+	  name = message[1];
+	  Caesar* name = new Caesar(message, isEncrypted,shiftVal);
+	  m_ciphers.push_back(name);
+	}
+	
+	//Adding vigenere ciphers to m_ciphers
+	else if(cipherType[0] == 'v') {
+	  getline(Ciphers, key);
+	  
+	  name = message[1];
+	  Vigenere* name = new Vigenere(message, isEncrypted, key);
+	  m_ciphers.push_back(name);
+	}
+      
+	//Adding ong ciphers to m_ciphers
+	else if (cipherType[0] == 'o') {
+	  getline(Ciphers, key);
+	  
+	  name = message[1];
+	  Ong* name = new Ong(message, isEncrypted);
+	  m_ciphers.push_back(name);
+	}
+	break;
+      } //End of switch statement
+    }
+  }
+  Ciphers.close();
+}
+
+
+void CipherTool::DisplayCiphers() {
+  int count = 1;
+  string cipher = " ";
+  for (int i = 0; i < (int)m_ciphers.size(); i++) {
+    cipher = m_ciphers[i]->ToString();
+    cout << count << ". " << m_ciphers[i]->GetMessage() << "(" << cipher << ")" << endl;
+    count++;
+  }
+}
+
+
+void CipherTool::EncryptDecrypt(bool protocol) {
+  //Encrypting ciphers if passed true.
+  if (protocol == true) {
+    for (int i = 0; i < m_ciphers.size(); i++) {
+      if (m_ciphers[i]->GetIsEncrypted() == 0)
+      m_ciphers[i]->Encrypt();
+    }
+  }
+  //Decrypting Ciphers if passed false.
+  if (protocol == false) {
+    for (int i = 0; i < m_ciphers.size(); i++) {
+      if (m_ciphers[i]->GetIsEncrypted() == 1)
+      m_ciphers[i]->Decrypt();
+    }
+  }
+   
+}
+
+void CipherTool::Export() {
+  ofstream expor;
+  expor.open("exportedCiphers.txt");
+  for (int i = 0; i < (int)m_ciphers.size(); i++) {
+    expor << m_ciphers[i]->FormatOutput();
+  }
+  expor.close();
+}
+
+int CipherTool::Menu() {
+  int choice = 0;
+  
+  //Displays the 5 option menu
+  cout << "What would you like to do?" << endl;
+  cout << "1. Display All Ciphers" << endl;
+  cout << "2. Encrypt All Ciphers" << endl;
+  cout << "3. Decrypt All Ciphers" << endl;
+  cout << "4. Export All Ciphers" << endl;
+  cout << "5. Quit" << endl;
+  
+  //Taking in the users choice.
+  cin >> choice;
+  cout << endl;
+  
+  //Validating user input.
+  while (choice > 5 or choice < 1) {
+    cout << "Thats invalid please choose again:" << endl;
+    cin >> choice;
+  }
+  return choice;
+}
+    
+char CipherTool::GetType(Cipher* cipher) {
+  char type = ' ';
+  string cipherType = cipher->ToString();
+
+  if (cipherType == "Caesar") {
+    type = 'c';
+  }
+  
+  else if (cipherType == "Vigenere") {
+    type = 'v';
+  }
+
+  else if (cipherType == "Ong") {
+    type = 'o';
+  }
+  
+  return type;
+}
+
+
+void CipherTool::Start() {
+  int choice = 0;
+  LoadFile();
+
+  while(choice != 5) {
+    choice = Menu();
+
+    switch(choice) {
+    case 1:  //Display ciphers
+      DisplayCiphers();
+      break;
+    case 2:  //Encrypt ciphers
+      EncryptDecrypt(true);
+      break;
+    case 3:  //Decrypt Ciphers
+      EncryptDecrypt(false);
+      break;
+    case 4:  //Export Ciphers
+      Export();
+      break;
+    case 5:  //Quit program.
+      break;
+    }
+  }
+
+
+}

@@ -1,0 +1,92 @@
+Welcome to UMBC Encryption
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. (Oprah Winfrey)(Caesar)
+
+2. Ktw jajwd rnszyj dtz fwj fslwd dtz qtxj xncyd xjhtsix tk mfuunsjxx. (Wfqum Bfqit Jrjwxts)(Caesar)
+
+3. We cannot always build the future of our youth, but we can build our youth for the future. (Franklin D. Roosevelt)(Ong)
+
+4. Pong-e-a-cong-e bong-e-gong-i-nong-song wong-i-tong-hong a song-mong-i-long-e-. (-Mong-o-tong-hong-e-rong Tong-e-rong-e-song-a-)(Ong)
+
+5. Never leave that till tomorrow which you can do today. (Benjamin Franklin)(Vigenere)
+
+6. Lt rdkcv a eueyw dcdl mi cmxryje rr srdnb xp rr ymxr cqekleq, eur hvcq mmue rr srdnb xp rr ymxr duicqdq. (M. K. Prwjlne)(Vigenere)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+2
+3 ciphers Encrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. Mj csy psso ex alex csy lezi mr pmji, csy'pp epaecw lezi qsvi. Mj csy psso ex alex csy hsr'x lezi mr pmji, csy'pp riziv lezi irsykl. (Stvel Amrjvic)(Caesar)
+
+2. Ktw jajwd rnszyj dtz fwj fslwd dtz qtxj xncyd xjhtsix tk mfuunsjxx. (Wfqum Bfqit Jrjwxts)(Caesar)
+
+3. Wong-e cong-a-nong-nong-o-tong a-long-wong-a-yong-song bong-u-i-long-dong tong-hong-e fong-u-tong-u-rong-e o-fong o-u-rong yong-o-u-tong-hong-,ong bong-u-tong wong-e cong-a-nong bong-u-i-long-dong o-u-rong yong-o-u-tong-hong fong-o-rong tong-hong-e fong-u-tong-u-rong-e-. (-Fong-rong-a-nong-kong-long-i-nong Dong-. Rong-o-o-song-e-vong-e-long-tong-)(Ong)
+
+4. Pong-e-a-cong-e bong-e-gong-i-nong-song wong-i-tong-hong a song-mong-i-long-e-. (-Mong-o-tong-hong-e-rong Tong-e-rong-e-song-a-)(Ong)
+
+5. Uektp sepkc ahpi rpla imtoggmd wwxao ydj ahn sd rvdpn. (Zlnypkpn Ugyukaxl)(Vigenere)
+
+6. Lt rdkcv a eueyw dcdl mi cmxryje rr srdnb xp rr ymxr cqekleq, eur hvcq mmue rr srdnb xp rr ymxr duicqdq. (M. K. Prwjlne)(Vigenere)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+6 ciphers Decrypted
+3
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. (Oprah Winfrey)(Caesar)
+
+2. For every minute you are angry you lose sixty seconds of happiness. (Ralph Waldo Emerson)(Caesar)
+
+3. We cannot always build the future of our youth, but we can build our youth for the future. (Franklin D. Roosevelt)(Ong)
+
+4. Peace begins with a smile. (Mother Teresa)(Ong)
+
+5. Never leave that till tomorrow which you can do today. (Benjamin Franklin)(Vigenere)
+
+6. It takes a great deal of courage to stand up to your enemies, but even more to stand up to your friends. (J. K. Rowling)(Vigenere)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+4
+What would you like to call the export file?
+proj4_test4_output.txt
+6 ciphers exported
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+5
+Thanks for using UMBC Encryption

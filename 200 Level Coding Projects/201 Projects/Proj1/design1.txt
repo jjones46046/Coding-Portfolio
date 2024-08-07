@@ -1,0 +1,127 @@
+"""
+File:    design1.txt
+Author:  Jared Jones
+Date:    10/18/2019
+Section: 33
+E-mail:  jjones20@umbc.edu
+Description:
+  Baking Simulator
+  """
+
+STARTING_FUNDS = 79.0
+FLOUR_COST_PER_BAG = 2.5
+EGGS_COST_PER_CRATE = 1.9
+YEAST_COST_PER_BAG = 3.25
+BUTTER_COST_PER_PACK = 1.25
+MILK_COST_PER_JUG = 2.75
+GALLONS_MILK_PER_JUG = 1.0
+EGGS_PER_CRATE = 24.0
+TBSP_BUTTER_PER_PACK = 64.0
+CUPS_FLOUR_PER_BAG = 25.0
+CUP_YEAST_PER_BAG = 6.0
+FLOUR_REQUIRED = 48.0 + 112.5
+EGGS_REQUIRED = 12.0 + 60.0
+BUTTER_REQUIRED = 144.0
+YEAST_REQUIRED = 39 + 50
+MILK_REQUIRED = 18.0
+CUPS_IN_GALLON = 16
+TSP_IN_CUP = 48
+#Used in the go_shopping function. These include the users starting balance, the cost of each item, unit of measurements,
+#and the calculated amount of each item required.
+INGREDIENTS_CHK = false
+#Used in the check_items_enough() function, gives the rest of the program an indication to continue or end with a loss
+TASK_LIST_LENGTH = len(task_list)
+#Used in the print_task_list
+BAGUETTES_FIRST = false
+BAGUETTES_LAST = true
+VALID = false
+#Used in the is_valid_input
+
+
+def go_shopping():
+"""
+This function gives the user a list of items that need to be purchased, displays their budget, and asks the user how much of each item they want to purchase  :return: shopping_cart    list that tells us how much of each item the user purchased
+    """
+
+def budget_tracker():
+    """
+    This function will be called during go_shopping to make sure user doesnt go over budget
+        :return: Nothing
+	    """
+
+def check_items_enough(shopping_cart):
+    """
+    This function checks if the users shopping cart has enough of the appropriate items in it too be able to bake
+        :param shopping_cart: int   A list of the users inputted values for the amount of items they want
+	    :return: INGREDIENTS_CHK    becomes true or false
+	        """
+
+
+def print_task_list(tasks_remaining):
+    """
+    This function takes in a list of menu items, and prints a list of tasks that need to be done.
+        :param tasks_remaining: int  A value that determines how many items of the list we've finished.
+	    :return: Nothing
+	        """
+
+def is_valid_input(index, tasks):
+    """
+    This function will check if the index number of the task the user wants to complete is valid
+    :param index:int    user given number that indicates which task they would like to complete
+    :param tasks:str    String that is updated when a task is completed
+    :return: VALID   set to true or false
+    """
+def check_1st(index, tasks):
+    """
+    This function checks if prepping the dough is done first
+    :param index: int   user given number that indicates which task they would like to complete
+    :param tasks: str   list of strings that is updated when a task is completed
+    :return: BAGUETTES_FIRST set to true or false
+    """
+def check_last(index, tasks):
+    """
+    This function checks if baking the baguettes is done last
+    :param index:int    user given number that indicates which task they would like to complete
+    :param tasks:str    list of string that is update when a task is completed
+    :return: BAGUETTES_LAST set to true or false
+    """
+def bake():
+    """
+    This function run print_task_list to print the dynamic task's list, then ask the user which tasks they want to complete until their is no more left.
+    :return: A victory message
+    """
+
+
+if __name__ == '__main__':
+        Program Start
+	Start go_shopping()
+	      Display shopping list with the users budget and the number of ingredients
+	      Welcome the user to the supermarket with a printed message
+	      While: user has not entered Nothing, ask the user what they would like to purchase
+	      Check if their input is an actual ingredient, if not ask the question again? Or code can fail(not sure).
+	      Run budget_tracker() to track if the user is still within budget
+	      Continue asking for ingredients, until a user returns a "Nothing".
+	Start check_items_enough
+	      Receives shopping_list, from the user inputs in go_shopping
+	      Runs if statements for each ingredient															  Checks for atleast 72 eggs, 160.5 cups of flour, 144 tbsp of butter, 89 tsp of yeast, and 18 cups of milk using respective measurement variables
+	      If a user doesn't have enough of one item, fail them													  If check is completed succesfully, INGREDIENTS_CHK becomes true										y	      Program checks to see if INGREDIENTS_CHK is true
+	      Starts print_task_list()
+	      	     Prints "Here are the remaining tasks"
+		     Prints the dynamic task list													                         The list is actually a python list named "tasks" with strings of items that need to be finished.
+		     When an item is done, it is removed from the list.
+	      Starts bake()
+		     Asks the user for a numerical input that will indicate which task they would like to complete								 Two support functions will be used, check_1st and check_last
+		     While loop: If the length of the list is still more than 1 run the contents
+  		     Asks the user which task they want to complete, that value becomes "index"											 Starts is_valid_input
+		     	  Checks the length of the list to make sure the index is valid
+		     	  If statement: checks if check_1st's variable BAGUETTES_FIR
+			  check_1st starts
+			       Checks "tasks" to see if the task "begin the baguette dough" is still there
+			       If begin dough isn't and the other 3 tasks are, BAGUETTES_FIRST becomes true
+			       If it is there, check_1st returns a fail, which leads to is_valid_input to print a try again message.
+			       If statement: checks if check_1st's variable BAGUETTES_FIRST is true
+			       	  If true will check the index given by the user against the length of list "tasks"
+			       If this is true, is_valid_input will exit and set VALID = True
+			       If this is fale, is_valid_input will print a try again message
+			       If BAGUETTES_FIRST is false, the user is met with a try again message										  bake() is ran looped until no more tasks remain, the user will be met with a victory message.
+																																																																																			     

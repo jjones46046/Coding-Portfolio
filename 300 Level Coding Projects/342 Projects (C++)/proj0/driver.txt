@@ -1,0 +1,17 @@
+Push integers on queue and dump contents:
+1
+2
+3
+4
+5
+
+Read contents using head() and dequeue():
+1
+2
+3
+4
+5
+
+Attempt dequeue() of empty queue:
+Caught exception:
+Queue<T>::dequeue(): attempt to dequeue an empty Queue.

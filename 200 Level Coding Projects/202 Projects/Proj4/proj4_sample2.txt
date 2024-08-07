@@ -1,0 +1,68 @@
+Welcome to UMBC Encryption
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. "Do what you can, with what you have, where you are. (Theodore Roosevelt)"(Vigenere)
+
+2. "If you cannot do great things, do small things in a great way. (Napoleon Hill)"(Vigenere)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+2
+2 ciphers Encrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. "Fo jkyv ybx acn, jlrj wudr aoh kyxe, jkcte lrs crr. (Wfgoqrpg Rbrqgvror)"(Vigenere)
+
+2. "Jf pgv crfook vp giwbt kzjnxk, eo jeblc liieyt ie s hrvsu wrq. (Oaggmeff Iicd)"(Vigenere)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+3
+2 ciphers Decrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. "Do what you can, with what you have, where you are. (Theodore Roosevelt)"(Vigenere)
+
+2. "If you cannot do great things, do small things in a great way. (Napoleon Hill)"(Vigenere)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+4
+What would you like to call the export file?
+proj4_test1_output.txt
+2 ciphers exported
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+5
+Thanks for using UMBC Encryption

@@ -1,0 +1,94 @@
+"""
+File:    design2.py
+Author:  Jared Jones
+Date:    11/1/2019
+Section: 33
+E-mail:  jjones20@umbc.edu
+Description:
+  Project 2 design document
+"""
+
+
+---Constants---
+
+PLAYER_1_MOVE
+PLAYER_2_MOVE
+(Stores the current move each player made)
+p1_character
+p2_character
+(The character that each player has opted to use for their lines)
+p1_lines
+p2_lines
+(Two 2d lists that store the current lines each player has created)
+valid_check
+victory_check
+(Will use boolean flags to verify a check was valid or invalid)
+
+------------------
+
+def turn_manager(p1_lines, p2_lines)
+    """
+    Manages the turn flow for each player's turn. Prints the current board, prompts user for move, takes in users move, and swaps to the second user.
+    param: p1_lines: list of player 1's current lines
+    param: p2_lines: list of palyer 2's current lines
+    return: PLAYER_1_MOVE, PLAYER_2_MOVE
+    
+    """
+    
+def storage_manager(PLAYER_MOVE)
+    """
+    Stores player moves in the proper 2d list based on who made the move.
+    
+ 
+    :PLAYER_MOVE: The input given by each player
+    """
+    
+def startup
+    """
+    Asks each player which character they would like to use and establishes player one and player two.
+    return: p1_character,p2_character
+    
+    """
+
+def input_valid(PLAYER_MOVE)
+    """
+    Seperates the users move into two integers then verifies that either players move was correct and still doable given the current situation of the game.
+    :param PLAYER_MOVE: The two dot inputs from the user
+
+    :return: valid_check
+    """
+    
+def victory(p1_lines, p2_lines)
+    """
+    Function using an algorithm that checks the board for a triangle. If a triangle is found, the player who created it is handed a loss
+   
+    :param: p1_lines: list of player 1's current lines
+    :param: p2_lines: list of palyer 2's current lines
+    :return: victory_check
+    """
+    
+def print_board(p1_lines, p1_character, p2_lines, p2_character)
+    """
+    Renders a game board and prints it to terminal
+
+    :param p1_lines: lines for player one e.g. [[1, 3], [2, 6], [5, 3]]
+    :param p1_character: the character that the lines will render with for player one
+    :param p2_lines: ines for player two e.g. [[1, 3], [2, 6], [5, 3]]
+    :param p2_character: the character that the lines will render with for player two
+    :return: None
+    """
+			
+if __name__ == '__main__':
+   ---Program Start----
+   Start function 'startup'
+   	 -Asks and obtains the character each player wants to use for their lines
+   Start function 'turn_manager'
+   	 -Prints the current board with function 'print_board'
+	 -Obtains each players inputs
+	 -Checks the inputs with support function 'input_valid', re-prompts the user if the input is invalid
+   Run storage_manager
+	 -Stores the moves into their respective 2d list, and returns those list
+   Run function 'victory' after each run through of turn_manager (a run through is when both players input valid moves)
+       	 -Checks the 2d list for a triangle
+	 -If one is found, assigns the correct user as a winner and prints the final board.
+   While there is no winner, turn_manager will repeat.

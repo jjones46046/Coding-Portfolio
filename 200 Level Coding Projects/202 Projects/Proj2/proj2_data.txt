@@ -1,0 +1,50 @@
+Cave Sulfur,raw,0,0,0
+Copper Ore,raw,0,0,0
+Diamond,raw,0,0,0
+Gold,raw,0,0,0
+Lead,raw,0,0,0
+Lithium,raw,0,0,0
+Quartz,raw,0,0,0
+Ruby,raw,0,0,0
+Silver Ore,raw,0,0,0
+Stalker Teeth,raw,0,0,0
+Titanium,raw,0,0,0
+Table Coral Sample,raw,0,0,0
+Acid Mushroom,raw,0,0,0
+Gel Sack,raw,0,0,0
+Creepvine Seed Cluster,raw,0,0,0
+Creepvine Sample,raw,0,0,0
+Blood Oil,raw,0,0,0
+Aerogel,advanced,Gel Sack,Ruby,0
+Benzene,advanced,Blood Oil,Blood Oil,0
+Synthetic Fibers,advanced,Benzene,Fiber Mesh,0
+Advanced Wiring Kit,advanced,Computer Chip,Copper Wire,0
+Battery,advanced,Copper Wire,Acid Mushroom,0
+Computer Chip,advanced,Table Coral Sample,Wiring Kit,0
+Copper Wire,advanced,Copper Ore,Copper Ore,0
+Wiring Kit,advanced,Silver Ore,Silver Ore,0
+Enameled Glass,advanced,Stalker Teeth,Glass,0
+Fiber Mesh,advanced,Creepvine Sample,Creepvine Sample,0
+Glass,advanced,Quartz,Quartz,0
+Lubricant,advanced,Creepvine Seed Cluster,Blood Oil,0
+Plasteel Ingot,advanced,Titanium Ingot,Lithium,0
+Silicone Rubber,advanced,Creepvine Seed Cluster,Creepvine Seed Cluster,0
+Titanium Ingot,advanced,Titanium,Titanium,0
+Light Stick,unique,Battery,Glass,25
+Pathfinder Tool,unique,Creepvine Seed Cluster,Copper Wire,50
+Repair Tool,unique,Cave Sulfur,Silicone Rubber,25
+Compass,unique,Wiring Kit,Copper Wire,50
+Fins,unique,Silicone Rubber,Silicone Rubber,100
+Floating Air Pump,unique,Fiber Mesh,Titanium,50
+High Capacity O2 Tank,unique,Standard O2 Tank,Lubricant,200
+Lightweight High Capacity Tank,unique,High Capacity O2 Tank,Titanium Ingot,100
+Radiation Suit,unique,Fiber Mesh,Lead,100
+Rebreather,unique,Wiring Kit,Fiber Mesh,100
+Reinforced Dive Suit,unique,Synthetic Fibers,Diamond,100
+Standard O2 Tank,unique,Silicone Rubber,Titanium,100
+Stillsuit,unique,Synthetic Fibers,Aerogel,100
+Swim Charge Fins,unique,Advanced Wiring Kit,Ultra Glide Fins,100
+Ultra Glide Fins,unique,Fins,Synthetic Fibers,200
+Ultra High Capacity Tank,unique,Lightweight High Capacity Tank,Plasteel Ingot,200
+Beacon,unique,Copper Ore,Gold,50
+Seaglide,unique,Advanced Wiring Kit,Battery,200
